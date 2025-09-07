@@ -211,6 +211,12 @@ Like having a separate workshop for experimental work - identical capabilities w
 
 ---
 
+## 🤝 Contributing
+
+To contribute to this project, please visit the specific repository you wish to work with and follow the instructions there to clone and build the project!
+
+---
+
 ## 📄 License & Credits
 
 **MIT License** - Fork freely with attribution to DiamonDoughnut
