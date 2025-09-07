@@ -14,7 +14,7 @@ Players ↔ Minecraft Server (Mod) ↔ Go API ↔ PostgreSQL Database ↔ Web An
 
 ## 📦 Component Repositories
 
-### [PokéFactory Legends Minecraft Mod](https://github.com/diamondoughnut/pokefactory-legends)
+### [PokéFactory Legends Minecraft Mod](https://github.com/diamondoughnut/pokefactory-mod)
 **Status: Ready for Field Testing** 🟢
 
 **NeoForge 1.21.1 mod with Cobblemon integration**
@@ -27,7 +27,7 @@ Players ↔ Minecraft Server (Mod) ↔ Go API ↔ PostgreSQL Database ↔ Web An
 
 **Dependencies**: Cobblemon, KotlinForForge, NeoForge 1.21.1
 
-### [PokéFactory Legends Backend Server](https://github.com/diamondoughnut/pokefactory-server)
+### [PokéFactory Legends Backend Server](https://github.com/diamondoughnut/pokefactory_server)
 **Status: Testing Phase 1** 🟡
 
 **Dockerized Go API with PostgreSQL database**
@@ -46,7 +46,7 @@ Players ↔ Minecraft Server (Mod) ↔ Go API ↔ PostgreSQL Database ↔ Web An
 
 **Tech Stack**: Go, PostgreSQL, Docker, Goose migrations
 
-### [PokéFactory Legends WebApp](https://github.com/diamondoughnut/pokefactory-webapp)
+### [PokéFactory Legends WebApp](https://github.com/diamondoughnut/pokefactory_webapp)
 **Status: Early Development** 🔴
 
 **React-Vite frontend for public analytics**
